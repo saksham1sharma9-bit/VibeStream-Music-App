@@ -11,7 +11,7 @@ It includes a complete flow of the application's main screens such as
 
 ## 🔗 Figma Prototype Link
 👉 **Live Prototype:**  
-https://www.figma.com/proto/s7mMIDOQUyo7KySlUbt6FO/Homepage-of-Music-App-1?node-id=0-1&t=ZPzYEACOn0bJF95P-1
+https://www.figma.com/proto/s7mMIDOQUyo7KySlUbt6FO/Homepage-of-Music-App-1?node-id=0-1&t=ZKhOY0DB4XJVXrkc-1
 
 ---
 
